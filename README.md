@@ -3,11 +3,11 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=👋+I'm+Muhammad+Saim;🚀+Full+Stack+Developer+%7C+AI+Engineer;🌐+Founder+of+YourTech;🤖+Building+Agentic+AI+%26+Smart+Apps;💻+Turning+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=👋+I'm+Muhammad+Saim;🚀+Full+Stack+Developer+%7C+AI+Engineer;🤖+Building+Agentic+AI+%26+Smart+Apps;💻+Turning+Ideas+into+Reality" alt="Typing SVG" />
 </p>
 
 <h1 align="center">🚀 Welcome to My GitHub Profile</h1>
-<h3 align="center">Full Stack Developer | AI Agent Developer | Founder</h3>
+<h3 align="center">Full Stack Developer | AI Agent Developer </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/saim-sm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
@@ -60,7 +60,6 @@ I specialize in bridging the gap between sophisticated LLM logic and high-perfor
 
 ## 📊 Performance Metrics
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SaimSM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="SaimSM's GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaimSM&theme=tokyonight&hide_border=true" alt="SaimSM's GitHub Streak" />
 </div>
 
@@ -99,7 +98,7 @@ I specialize in bridging the gap between sophisticated LLM logic and high-perfor
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=From+Muhammad+with+💙;Build.+Iterate.+Scale." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=From+Muhammad Saim Nadeem+with+💙;Build.+Iterate.+Scale." />
 </p>
 
 <div align="center">
