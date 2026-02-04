@@ -1,3 +1,12 @@
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Saim;Software+Engineering+Student;Next.js+%7C+TypeScript+%7C+Expo;UI%2FUX+Focused+Developer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=header"/>
+</p>
+
 # 💫 About Me
 
 🚀 I’m currently working on<br>
@@ -5,19 +14,19 @@ Building modern web and mobile applications using **Next.js, TypeScript, Tailwin
 Actively developing **portfolio projects**, **UI-focused apps**, and **university-level full-stack systems**.
 
 👯 I’m looking to collaborate on<br>
-Open-source projects, frontend-heavy web apps, mobile applications, and student-led startup ideas where **clean UI & great UX** matter.
+Open-source projects, frontend-heavy web apps, mobile applications, and student-led startup ideas where **clean UI & good UX** matter.
 
 🤝 I’m looking for help with<br>
-Backend optimization, scalable architecture, and real-world deployment practices for full-stack and mobile applications.
+Backend optimization, scalable architecture, and real-world deployment practices.
 
 🌱 I’m currently learning<br>
-Advanced Next.js patterns, React Native with Expo, PHP + MySQL integration, UI animations, and performance optimization.
+Advanced Next.js patterns, React Native (Expo), PHP + MySQL integration, UI animations, and performance optimization.
 
 💬 Ask me about<br>
 Next.js, TypeScript, Tailwind CSS, responsive UI design, portfolio building, and turning ideas into real applications.
 
 ⚡ Fun fact<br>
-I care about UI details so much that I’ll redesign a page multiple times just to make it *feel right*.
+I’ll redesign the same UI multiple times just to make it *feel right*.
 
 ---
 
@@ -26,7 +35,7 @@ I care about UI details so much that I’ll redesign a page multiple times just 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/m_s_edits)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100057089954661)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_saim_nadeem/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saim-nadeem/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saim-nadeem/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Muhamma64978138)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimdilse2004@gmail.com)
 
@@ -41,7 +50,7 @@ I care about UI details so much that I’ll redesign a page multiple times just 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -50,31 +59,34 @@ I care about UI details so much that I’ll redesign a page multiple times just 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SaimSM&theme=tokyonight&hide_border=false&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SaimSM&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaimSM&theme=tokyonight&hide_border=false&layout=compact)
+<!-- FIXED + RELIABLE -->
+![](https://github-readme-stats.vercel.app/api?username=SaimSM&show_icons=true&theme=tokyonight&rank_icon=github)<br/>
+![](https://streak-stats.demolab.com?user=SaimSM&theme=tokyonight)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaimSM&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=SaimSM&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6)
+<!-- FIXED -->
+![](https://github-profile-trophy.vercel.app/?username=SaimSM&theme=tokyonight&no-frame=true&margin-w=8)
 
 ---
 
-## ✍️ Random Dev Quote
+## ✨ A Small Flex (Low-key)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> I focus on **polish**.  
+> Code that works is expected.  
+> Code that *feels right* is the goal.
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:38BDF8&height=120&section=footer"/>
+</p>
 
 <!-- Proudly crafted with ❤️ by Saim -->
