@@ -56,15 +56,25 @@ I specialize in bridging the gap between sophisticated LLM logic and high-perfor
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,py,fastapi,nodejs,mongodb,docker,github,vercel,tailwind&theme=dark" />
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaimSM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimSM&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</p>
+
 ---
 
-## 📊 Performance Metrics
-<div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaimSM&theme=tokyonight&hide_border=true" alt="SaimSM's GitHub Streak" />
-</div>
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.vercel.app?user=SaimSM&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
 ---
-
 ## 🐍 Activity Heatmap
 <div align="center">
   <img src="https://raw.githubusercontent.com/SaimSM/SaimSM/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
