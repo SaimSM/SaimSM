@@ -56,18 +56,6 @@ I specialize in bridging the gap between sophisticated LLM logic and high-perfor
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,py,fastapi,nodejs,mongodb,docker,github,vercel,tailwind&theme=dark" />
 </p>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaimSM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimSM&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
